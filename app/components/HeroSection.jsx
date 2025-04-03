@@ -18,7 +18,7 @@ export default function HeroSection() {
           <div className="flex gap-4">
             <a
               href="tel:+905469787808"
-              className="inline-block bg-indigo-600 text-white px-5 py-3 rounded-md font-medium hover:bg-indigo-500"
+              className="inline-block bg-indigo-600 text-white p-3 lg:px-5 lg:py-3 rounded-md font-medium hover:bg-indigo-500"
             >
               Şimdi Ara
             </a>
