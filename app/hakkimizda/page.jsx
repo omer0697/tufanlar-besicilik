@@ -1,3 +1,8 @@
+export const metadata = {
+  title: "Hakkımızda | Ankara Kurbanlık - Tufanlar Besi",
+  description: "Tufanlar Besi olarak Ankara'da 20 yıllık tecrübemizle hijyenik, islami koşullara uygun kurbanlık satış hizmetleri sunuyoruz.",
+};
+
 export default function AboutUs() {
     return (
       <div className="bg-white">

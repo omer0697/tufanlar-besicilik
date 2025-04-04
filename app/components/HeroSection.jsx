@@ -11,8 +11,8 @@ export default function HeroSection() {
           </div>
           {/* Açıklama */}
           <p className="text-lg text-gray-600 mb-8">
-            En kaliteli hayvanları, uygun fiyatlarla ve hızlı teslimat garantisiyle 
-            bulabileceğiniz, Ankara’nın lider kurbanlık hayvan satış platformu.
+          Ankara’da, özenle seçilmiş ve en kaliteli kurbanlık hayvanları, samimi hizmet anlayışımızla,
+          uygun fiyatlar ve hızlı teslimat garantisiyle sizlere sunuyoruz. Sizin memnuniyetiniz bizim önceliğimiz!
           </p>
           {/* Butonlar (CTA) */}
           <div className="flex gap-4">
@@ -36,7 +36,7 @@ export default function HeroSection() {
         {/* Sağ içerik (Görsel) */}
         <div className="flex-2 relative min-h-[400px] lg:min-h-[840px]">
           <img
-            src="2.jpeg"
+            src="7.jpeg"
             alt="Kurbanlık Hayvanlar"
             className="absolute inset-0 w-full h-full object-cover"
           />

@@ -23,7 +23,7 @@ const packages = [
     name: 'Kurbanlık Paket 4',
     weightRange: '45-50 kg',
     price: '39,500 TL',
-    image: '3.jpeg', // Yeni paket için uygun görsel yolu; değiştirebilirsiniz.
+    image: '8.jpeg', // Yeni paket için uygun görsel yolu; değiştirebilirsiniz.
   },
 ]
 

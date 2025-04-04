@@ -19,16 +19,18 @@ export default function Navbar() {
   return (
     <Disclosure as="header" className="bg-gray-50 shadow">
       <div className="mx-auto max-w-7xl px-2 sm:px-4 lg:divide-y lg:divide-gray-200 lg:px-8">
-        <div className="relative flex h-16 justify-between">
+        <div className="relative flex h-22 lg:h-16 justify-between">
           {/* Logo ve sol kısım */}
           <div className="relative z-10 flex px-2 lg:px-0">
             <div className="flex shrink-0 items-center">
-            <Link href="/" className="flex items-center rounded-full">
+            <Link href="/" className="flex items-center rounded-full ">
                 <img
                     alt="Şirket Logosu"
                     src="1.jpeg"
-                    className="h-16 rounded-full"
+                    className="h-22 lg:h-16 rounded-full"
                 />
+
+                <p className='text-xl font-bold animate-bounce'>Tufanlar Besicilik</p>
             </Link>
             </div>
           </div>

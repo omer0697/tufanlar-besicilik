@@ -30,22 +30,22 @@ const features = [
           <div className="grid grid-cols-2 grid-rows-2 gap-4 sm:gap-6 lg:gap-8">
             <img
               alt="Doğal yetiştirme alanı"
-              src="https://images.unsplash.com/photo-1574226516831-e1dff420e37d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+              src="16.jpeg"
               className="rounded-lg bg-gray-100"
             />
             <img
               alt="Hayvan beslenmesi"
-              src="https://images.unsplash.com/photo-1612165973341-3da20198ef6a?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+              src="17.jpeg"
               className="rounded-lg bg-gray-100"
             />
             <img
               alt="Kesim işlemi"
-              src="https://images.unsplash.com/photo-1626443431613-c5fcd3c8adf0?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+              src="18.jpeg"
               className="rounded-lg bg-gray-100"
             />
             <img
               alt="Veteriner kontrolü"
-              src="https://images.unsplash.com/photo-1580281657520-9a69e57ce2b9?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+              src="19.jpeg"
               className="rounded-lg bg-gray-100"
             />
           </div>

@@ -5,7 +5,7 @@ const galleryItems = [
       href: '#',
       description: 'Modern ve hijyenik kesim alanımız.',
       imageSrc:
-        'https://images.unsplash.com/photo-1562059390-a761a0847684?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+        '13.jpg',
       imageAlt: 'Modern kesim alanı görüntüsü.',
     },
     {
@@ -14,7 +14,7 @@ const galleryItems = [
       href: '#',
       description: 'Geniş depo ve saklama alanlarımız.',
       imageSrc:
-        'https://images.unsplash.com/photo-1581091870627-3b47accc0e97?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+        '14.jpg',
       imageAlt: 'Depo alanı görüntüsü.',
     },
     {
@@ -23,7 +23,7 @@ const galleryItems = [
       href: '#',
       description: 'Müşterilerimize sunulan satış ve danışma alanımız.',
       imageSrc:
-        'https://images.unsplash.com/photo-1573497491208-6b1acb260507?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+        '15.jpeg',
       imageAlt: 'Satış ve danışma alanı görüntüsü.',
     },
     {
@@ -32,7 +32,7 @@ const galleryItems = [
       href: '#',
       description: 'Profesyonel ekibimizin çalışmalarından görüntüler.',
       imageSrc:
-        'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+        '7.jpeg',
       imageAlt: 'Ekibimizin çalışırken görüntüsü.',
     },
   ]

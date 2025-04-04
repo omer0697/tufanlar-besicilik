@@ -21,42 +21,18 @@ export default function Footer() {
                 </h3>
                 <ul className="space-y-2">
                   <li>
-                    <a href="/kurbanlik-hizmetlerimiz" className="text-sm text-gray-600 hover:text-gray-900">
-                      Kurbanlık Satışı
+                    <a href="/satilik-hayvanlar" className="text-sm text-gray-600 hover:text-gray-900">
+                      Satilik Hayvanlarımız
                     </a>
                   </li>
                   <li>
-                    <a href="/hisseli-kurbanlik" className="text-sm text-gray-600 hover:text-gray-900">
-                      Hisseli Kurbanlık
+                    <a href="/galeri" className="text-sm text-gray-600 hover:text-gray-900">
+                      Tesisimizden Görüntüler
                     </a>
                   </li>
                   <li>
-                    <a href="/kesim" className="text-sm text-gray-600 hover:text-gray-900">
-                      Kesim Hizmetleri
-                    </a>
-                  </li>
-                </ul>
-              </div>
-  
-              {/* Kurumsal */}
-              <div>
-                <h3 className="text-sm font-semibold text-gray-900 mb-4">
-                  Kurumsal
-                </h3>
-                <ul className="space-y-2">
-                  <li>
-                    <a href="/hakkimizda" className="text-sm text-gray-600 hover:text-gray-900">
-                      Hakkımızda
-                    </a>
-                  </li>
-                  <li>
-                    <a href="/referanslar" className="text-sm text-gray-600 hover:text-gray-900">
-                      Referanslar
-                    </a>
-                  </li>
-                  <li>
-                    <a href="/basinda-biz" className="text-sm text-gray-600 hover:text-gray-900">
-                      Basında Biz
+                    <a href="/kurban-bilgileri" className="text-sm text-gray-600 hover:text-gray-900">
+                      Kurban Hakkında Bilgiler
                     </a>
                   </li>
                 </ul>

@@ -32,7 +32,7 @@ export default function KurbanlikHizmetlerimiz() {
               Kesimhanemiz kendi bünyemizde bulunup, 200 m<sup>2</sup> kapalı alan içerisinde modern ve raylı sistemde kurulmuştur. Müşterilerimize verdiğimiz randevu saatinde, hijyenik ve islami kurallara uygun şekilde kesim yapılmaktadır.
             </p>
             <p className="mt-5">
-              Kurbanlık pazarlarında çadır gezip kurbanlık aramaya, kesecek yer bulmakla uğraşmadan; tecrübeli, veteriner kontrollü ve işinin ehli kişilerce yetiştirilen kurbanlıklarımızdan dilediğinizi seçebilirsiniz. Verilen saatte profesyonel kasap ekiplerince paylarınız dilediğiniz gibi hazırlanacaktır.
+            Kurbanlık pazarlarında çadır gezip kurbanlık aramaya, kesecek yer bulmakla uğraşmadan; tecrübeli, veteriner kontrollü ve işinin ehli kişilerce yetiştirilen kurbanlıklarımızdan dilediğinizi seçebilirsiniz. Verilen saatte profesyonel kasap ekiplerince paylarınız size özel hisse kutularinda teslim edilir.
             </p>
           </div>
 
