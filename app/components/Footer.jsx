@@ -69,17 +69,17 @@ export default function Footer() {
                 </h3>
                 <ul className="space-y-2">
                   <li>
-                    <a href="#" className="text-sm text-gray-600 hover:text-gray-900">
+                    <a href="https://www.instagram.com/tufanlar_besi_ciftligi?igsh=N3ptMjk1am1qOXR6&utm_source=qr" className="text-sm text-gray-600 hover:text-gray-900">
                       Facebook
                     </a>
                   </li>
                   <li>
-                    <a href="#" className="text-sm text-gray-600 hover:text-gray-900">
+                    <a href="https://www.instagram.com/tufanlar_besi_ciftligi?igsh=N3ptMjk1am1qOXR6&utm_source=qr" className="text-sm text-gray-600 hover:text-gray-900">
                       Instagram
                     </a>
                   </li>
                   <li>
-                    <a href="#" className="text-sm text-gray-600 hover:text-gray-900">
+                    <a href="https://www.instagram.com/tufanlar_besi_ciftligi?igsh=N3ptMjk1am1qOXR6&utm_source=qr" className="text-sm text-gray-600 hover:text-gray-900">
                       Twitter
                     </a>
                   </li>

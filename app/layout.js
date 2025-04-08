@@ -17,6 +17,9 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "Ankara Dana Kurban Satışı - Tufanlar Besi | ankaradanakurban.com",
   description: "Ankara'da veteriner kontrolünde doğal ortamda yetişmiş dana kurbanlıklar ve hisseli kurbanlık seçenekleri ile hijyenik, islami kesim hizmetleri.",
+  icons:{
+    icon: '/1.jpeg',
+  },
   keywords: [
     "Ankara dana kurban",
     "hisseli kurban Ankara",
@@ -33,7 +36,7 @@ export const metadata = {
     siteName: "Tufanlar Besi",
     images: [
       {
-        url: "https://www.ankaradanakurban.com/kurbanlik.jpg",
+        url: "https://www.ankaradanakurban.com/1.jpeg",
         width: 1200,
         height: 630,
         alt: "Ankara Dana Kurban Satışı - Tufanlar Besi"
