@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 export default function HeroSection() {
     return (
       <div className="w-full flex flex-col-reverse lg:flex-row bg-white">
@@ -6,7 +8,7 @@ export default function HeroSection() {
           {/* Logo ve Başlık */}
           <div className="mb-6">
             <h1 className="text-4xl sm:text-5xl font-bold text-gray-900 leading-tight">
-              Ankara’nın En Güvenilir Kurbanlık Hayvan Satış Noktası
+              Ankara Kurbanlık Dana ve Hisseli Kurbanlık Satışı
             </h1>
           </div>
           {/* Açıklama */}
@@ -35,9 +37,11 @@ export default function HeroSection() {
     
         {/* Sağ içerik (Görsel) */}
         <div className="flex-2 relative min-h-[400px] lg:min-h-[840px]">
-          <img
-            src="7.jpeg"
+          <Image
+            src="/7.jpeg"
             alt="Kurbanlık Hayvanlar"
+            width={800} 
+            height={600}
             className="absolute inset-0 w-full h-full object-cover"
           />
         </div>

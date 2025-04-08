@@ -1,3 +1,9 @@
+export const metadata = {
+  title: "İletişim | Ankara Dana Kurban Satışı - Tufanlar Besi",
+  description: "Tufanlar Besi iletişim bilgileri ve konum bilgileri. Ankara'da dana kurbanlık alımı ve kesim hizmetleri için bize ulaşın: +90 546 978 78 08",
+};
+
+
 export default function Iletisim() {
     return (
       <div className="bg-white py-8 sm:py-16">

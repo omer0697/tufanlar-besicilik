@@ -1,6 +1,4 @@
-'use client'
 
-import { useState } from 'react'
 import { CheckIcon } from '@heroicons/react/20/solid'
 
 function classNames(...classes) {
@@ -12,7 +10,7 @@ const packages = [
     name: 'Paket 1',
     id: 'package-1',
     href: 'https://wa.me/905469787808',
-    price: '29,500 TL',
+    price: '28,500 TL',
     description: '30-35 kg arası, ideal başlangıç paketi.',
     features: ['30-35 kg arası', 'Ekonomik fiyat', 'Kaliteli dana'],
     image: '12.jpeg',
@@ -22,7 +20,7 @@ const packages = [
     name: 'Paket 2',
     id: 'package-2',
     href: 'https://wa.me/905469787808',
-    price: '33,500 TL',
+    price: '32,500 TL',
     description: '35-40 kg arası, dengeli yapıda.',
     features: ['35-40 kg arası', 'Orta segment', 'Yüksek kalite'],
     image: '11.jpeg',
@@ -32,7 +30,7 @@ const packages = [
     name: 'Paket 3',
     id: 'package-3',
     href: 'https://wa.me/905469787808',
-    price: '36,500 TL',
+    price: '35,500 TL',
     description: '40-45 kg arası, premium sınıf seçim.',
     features: ['40-45 kg arası', 'Üstün et kalitesi', 'Özenle yetiştirilmiş'],
     image: '10.jpeg',
@@ -42,7 +40,7 @@ const packages = [
     name: 'Paket 4',
     id: 'package-4',
     href: 'https://wa.me/905469787808',
-    price: '39,500 TL',
+    price: '37,500 TL',
     description: '45-50 kg arası, en yüksek verimlilik.',
     features: ['45-50 kg arası', 'En kaliteli dana', 'Özel beslenme programı'],
     image: '9.jpeg',

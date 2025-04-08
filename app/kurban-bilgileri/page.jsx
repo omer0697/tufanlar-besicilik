@@ -6,6 +6,11 @@ const features = [
     { name: 'Veteriner Kontrolü', description: 'Düzenli veteriner muayenesinden geçer, sağlık garantili.' },
     { name: 'Kesim Yöntemi', description: 'Hijyenik, islami kurallara uygun modern kesim işlemi.' },
   ]
+
+  export const metadata = {
+    title: "Kurban Bilgileri | Ankara Dana Kurban Satışı - Tufanlar Besi",
+    description: "Ankara'da veteriner kontrollü, hijyenik ortamda yetiştirilen dana kurbanlıkların özellikleri hakkında bilgiler. Sağlıklı ve islami şartlara uygun kurbanlıklar.",
+  };
   
   export default function KurbanBilgileri() {
     return (

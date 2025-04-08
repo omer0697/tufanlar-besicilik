@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "Hakkımızda | Ankara Kurbanlık - Tufanlar Besi",
-  description: "Tufanlar Besi olarak Ankara'da 20 yıllık tecrübemizle hijyenik, islami koşullara uygun kurbanlık satış hizmetleri sunuyoruz.",
+  title: "Hakkımızda | Ankara Dana Kurban Satışı - Tufanlar Besi",
+  description: "Ankara'da 20 yılı aşkın süredir veteriner kontrollü, hijyenik ve İslami kesim şartlarına uygun dana kurban satışı hizmetleri sunan Tufanlar Besi'yi keşfedin.",
 };
 
 export default function AboutUs() {

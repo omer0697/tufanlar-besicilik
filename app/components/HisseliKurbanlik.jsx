@@ -4,25 +4,25 @@ const packages = [
   {
     name: 'Kurbanlık Paket 1',
     weightRange: '30-35 kg',
-    price: '29,500 TL',
+    price: '28,500 TL',
     image: '4.jpg',
   },
   {
     name: 'Kurbanlık Paket 2',
     weightRange: '35-40 kg',
-    price: '33,500 TL',
+    price: '32,500 TL',
     image: '5.jpg',
   },
   {
     name: 'Kurbanlık Paket 3',
     weightRange: '40-45 kg',
-    price: '36,500 TL',
+    price: '35,500 TL',
     image: '6.jpeg',
   },
   {
     name: 'Kurbanlık Paket 4',
     weightRange: '45-50 kg',
-    price: '39,500 TL',
+    price: '37,500 TL',
     image: '8.jpeg', // Yeni paket için uygun görsel yolu; değiştirebilirsiniz.
   },
 ]

@@ -1,5 +1,10 @@
 import { CloudArrowUpIcon, LockClosedIcon, ServerIcon } from '@heroicons/react/20/solid'
 
+export const metadata = {
+  title: "Hizmetlerimiz | Ankara Dana Kurban Satışı - Tufanlar Besi",
+  description: "Ankara'da veteriner kontrolünde yetiştirilen kaliteli dana kurbanlıklar ve İslami kurallara uygun hijyenik kesim hizmetleri ile Tufanlar Besi'den güvenilir çözümler.",
+};
+
 export default function Hizmetlerimiz() {
   return (
     <div className="relative bg-white">

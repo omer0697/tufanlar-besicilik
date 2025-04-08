@@ -36,6 +36,11 @@ const galleryItems = [
       imageAlt: 'Ekibimizin çalışırken görüntüsü.',
     },
   ]
+
+  export const metadata = {
+    title: "Tesisimizden Görüntüler | Ankara Dana Kurban Satışı",
+    description: "Tufanlar Besi'nin Ankara'daki hijyenik kesim tesisleri, depo alanları ve profesyonel ekibimizden görüntüler. Kaliteli ve güvenilir hizmet anlayışımızı keşfedin.",
+  };
   
   export default function TesisimizdenGoruntuler() {
     return (
