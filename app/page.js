@@ -4,9 +4,37 @@ import KurbanlikHizmetlerimiz from "./components/KurbanlikHizmetlerimiz";
 import HisseliKurbanlik from "./components/HisseliKurbanlik";
 
 export const metadata = {
-  title: "Ankara Dana Kurban Satışı - Tufanlar Besi",
-  description: "Ankara'da veteriner kontrolünde, islami usullere uygun yetiştirilen kaliteli dana kurbanlıklar ve hijyenik kesim hizmetleri. Güvenilir ve profesyonel hizmet.",
+  title: "Ankara Kurbanlık Dana | Hisseli Kurban Satışı | Tufanlar Besi",
+  description: "Ankara’da islami şartlara uygun, veteriner kontrolünde hisseli ve tam dana kurbanlık satışı. Tufanlar Besi ile güvenli, hijyenik ve profesyonel kurban hizmeti.",
+  keywords: [
+    "ankara kurbanlık",
+    "ankara dana kurban",
+    "hisseli kurban ankara",
+    "islami kurban kesimi",
+    "kurbanlık fiyatları 2025",
+    "ankara kurbanlık çiftlik"
+  ],
+  openGraph: {
+    title: "Ankara Kurbanlık Dana | Hisseli Kurban | Tufanlar Besi",
+    description: "Ankara'da doğal ortamda yetişen danalar ile hijyenik ve islami kurban kesimi. Güvenli ve hızlı teslimat.",
+    url: "https://www.ankaradanakurban.com",
+    siteName: "Tufanlar Besi",
+    images: [
+      {
+        url: "https://www.ankaradanakurban.com/1.jpeg",
+        width: 1200,
+        height: 630,
+        alt: "Ankara Dana Kurbanlık",
+      },
+    ],
+    type: "website",
+    locale: "tr_TR"
+  },
+  alternates: {
+    canonical: "https://www.ankaradanakurban.com",
+  }
 };
+
 
 export default function Home() {
   return (

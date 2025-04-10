@@ -1,4 +1,5 @@
 import { CameraIcon } from '@heroicons/react/20/solid'
+import Image from 'next/image'
 
 export default function KurbanlikHizmetlerimiz() {
   return (
@@ -32,16 +33,19 @@ export default function KurbanlikHizmetlerimiz() {
               Kesimhanemiz kendi bünyemizde bulunup, 200 m<sup>2</sup> kapalı alan içerisinde modern ve raylı sistemde kurulmuştur. Müşterilerimize verdiğimiz randevu saatinde, hijyenik ve islami kurallara uygun şekilde kesim yapılmaktadır.
             </p>
             <p className="mt-5">
-            Kurbanlık pazarlarında çadır gezip kurbanlık aramaya, kesecek yer bulmakla uğraşmadan; tecrübeli, veteriner kontrollü ve işinin ehli kişilerce yetiştirilen kurbanlıklarımızdan dilediğinizi seçebilirsiniz. Verilen saatte profesyonel kasap ekiplerince paylarınız size özel hisse kutularinda teslim edilir.
+              Kurbanlık pazarlarında çadır gezip kurbanlık aramaya, kesecek yer bulmakla uğraşmadan; tecrübeli, veteriner kontrollü ve işinin ehli kişilerce yetiştirilen kurbanlıklarımızdan dilediğinizi seçebilirsiniz. Verilen saatte profesyonel kasap ekiplerince paylarınız size özel hisse kutularinda teslim edilir.
             </p>
           </div>
 
           {/* Sağ taraf: Görsel */}
-          <div className="relative lg:col-start-2 lg:row-start-1 mt-8 lg:mt-0">
-            <img
+          <div className="relative lg:col-start-2 lg:row-start-1 mt-8 lg:mt-0 aspect-[12/7] w-full rounded-lg shadow-lg overflow-hidden">
+            <Image
+              src="/3.jpeg"
               alt="Kurbanlık Hizmetlerimiz"
-              src="3.jpeg"
-              className="aspect-[12/7] w-full rounded-lg object-cover shadow-lg lg:aspect-auto"
+              fill
+              priority
+              sizes="(max-width: 1024px) 100vw, 50vw"
+              className="object-cover rounded-lg"
             />
           </div>
         </div>
