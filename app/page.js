@@ -2,6 +2,7 @@ import Image from "next/image";
 import HeroSection from "./components/HeroSection";
 import KurbanlikHizmetlerimiz from "./components/KurbanlikHizmetlerimiz";
 import HisseliKurbanlik from "./components/HisseliKurbanlik";
+import Comments from "./components/Comments";
 
 export const metadata = {
   title: "Ankara Kurbanlık Dana | Hisseli Kurban Satışı | Tufanlar Besi",
@@ -43,6 +44,7 @@ export default function Home() {
         <HeroSection/>
         <KurbanlikHizmetlerimiz/>
         <HisseliKurbanlik/>
+        <Comments/>
       </main>
     </div>
   );
