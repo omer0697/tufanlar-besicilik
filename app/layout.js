@@ -21,6 +21,10 @@ export const metadata = {
     icon: '/1.jpeg',
   },
   keywords: [
+    "Ankara kurbanlık",
+    "Ankara kurbanlik",
+    "Kurbanlık Ankara",
+    "Ankara kurbanlık fiyatları",
     "Ankara dana kurban",
     "hisseli kurban Ankara",
     "ankara kurbanlık dana",
